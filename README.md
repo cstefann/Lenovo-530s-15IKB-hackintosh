@@ -3,7 +3,7 @@ Lenovo Ideapad 530s-15IKB EFI (Opencore 0.6.2) compatible with macOS 10.13, 10.1
 
 # Specs:
 
-- Model: Lenovo Ideapad 530s-15IKB
+- Model: Lenovo Ideapad 530s-15IKB (81ev)
 - CPU: Intel i5 8250u
 - GPU: Intel UHD Graphics 620
 - RAM: 8 GB
