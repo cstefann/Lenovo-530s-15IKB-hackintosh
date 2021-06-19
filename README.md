@@ -1,7 +1,7 @@
 # The development on this repo is halted - I don't own this device anymore.
 
 # Lenovo-530s-15IKB-hackintosh
-Lenovo Ideapad 530s-15IKB EFI (Opencore 0.7.0) compatible with macOS 10.13, 10.14, 10.15 and 11.0.
+Lenovo Ideapad 530s-15IKB EFI (Opencore 0.7.0) compatible with macOS 10.13, 10.14, 10.15 and 11.x.
 
 # Specs:
 
